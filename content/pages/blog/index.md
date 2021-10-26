@@ -11,6 +11,7 @@ sections:
       - content/pages/blog/workplace.md
       - content/pages/blog/working-from-home.md
       - content/pages/blog/street-photography.md
+      - content/pages/blog/why-fonts-matter.md
     styles:
       self:
         height: auto
