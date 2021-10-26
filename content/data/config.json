@@ -34,7 +34,7 @@
             },
             {
                 "label": "Journal",
-                "altText": "Learn more",
+                "altText": "Journal",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
