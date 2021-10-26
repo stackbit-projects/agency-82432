@@ -8,6 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/work-photography-magazine-1.jpeg
   altText: Post Image
+  caption: This is the caption of the image
 bottomSections: []
 ---
 
