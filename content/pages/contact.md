@@ -41,6 +41,7 @@ sections:
         - type: CheckboxFormControl
           label: Sign me up to receive updates
           width: full
+          name: checkbox
     styles:
       self:
         height: auto
