@@ -57,7 +57,7 @@ sections:
     variant: variant-b
     colors: colors-a
     backgroundWidth: full
-    title: Blog Posts
+    title: Recent work
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
