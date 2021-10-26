@@ -1,5 +1,5 @@
 ---
-title: Post Title One
+title: Nature Mockup Magazine
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
