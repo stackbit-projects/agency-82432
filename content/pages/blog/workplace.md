@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: The Elements of Great Workplace Design
 date: '2021-10-26'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
