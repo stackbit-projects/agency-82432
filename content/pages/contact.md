@@ -24,7 +24,7 @@ sections:
           width: full
         - name: Services
           label: What services are you looking for?
-          defaultValue: Please select..s
+          defaultValue: Please select...
           options:
             - New York
             - San Francisco
