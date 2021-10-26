@@ -9,6 +9,7 @@ sections:
     title: Blog
     posts:
       - content/pages/blog/workplace.md
+      - content/pages/blog/working-from-home.md
     styles:
       self:
         height: auto
