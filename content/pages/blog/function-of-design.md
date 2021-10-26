@@ -17,7 +17,6 @@ bottomSections:
     title: Read next
     actions: []
     posts:
-      - content/pages/blog/post-one.md
       - content/pages/blog/interior-designer.md
     styles:
       self:
