@@ -44,7 +44,7 @@ sections:
   - elementId: ''
     variant: variant-a
     colors: colors-a
-    backgroundWidth: inset
+    backgroundWidth: full
     title: The Team
     subtitle: An optional subtitle of the section
     actions: []
