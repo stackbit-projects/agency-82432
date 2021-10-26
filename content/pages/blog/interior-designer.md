@@ -7,7 +7,6 @@ excerpt: >-
   someone who coordinates and manages such projects.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2-thumb.jpeg
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
