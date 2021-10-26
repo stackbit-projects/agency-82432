@@ -26,7 +26,7 @@ sections:
           label: What services are you looking for?
           defaultValue: Please select...
           options:
-            - New York
+            - Branding
             - San Francisco
           isRequired: false
           width: full
