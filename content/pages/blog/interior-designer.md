@@ -8,7 +8,7 @@ excerpt: >-
 bottomSections: []
 layout: PostLayout
 featuredImage:
-  altText: lorem-ipsum
+  altText: 'Interior designer '
   caption: lorem-ipsum
   elementId: ''
   styles:
