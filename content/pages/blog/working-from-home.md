@@ -2,8 +2,9 @@
 title: The Advantages and Disadvantages of Working from Home
 date: '2021-10-26'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
+  aenean vel elit.
 featuredImage:
   type: ImageBlock
   url: /images/post-11.jpeg
