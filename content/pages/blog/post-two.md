@@ -17,7 +17,6 @@ bottomSections:
     actions: []
     posts:
       - content/pages/blog/post-one.md
-      - content/pages/blog/postlayout-wwrp5nucn.md
     styles:
       self:
         height: auto
