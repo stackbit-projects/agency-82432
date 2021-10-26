@@ -18,10 +18,6 @@ sections:
           label: Name
           placeholder: Your name
           width: full
-        - type: TextFormControl
-          label: Last name
-          placeholder: Your last name
-          width: 1/2
         - type: EmailFormControl
           label: Email
           placeholder: Your email
