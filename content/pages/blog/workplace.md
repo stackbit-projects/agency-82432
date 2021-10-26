@@ -1,6 +1,6 @@
 ---
 title: The Elements of Great Workplace Design
-date: '2021-03-26'
+date: '2021-02-26'
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
