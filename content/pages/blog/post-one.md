@@ -19,7 +19,7 @@ bottomSections:
     actions:
       - type: Button
         label: Get Started
-        url: 'https://www.stackbit.com/'
+        url: '/'
         style: primary
     styles:
       self:
