@@ -2,7 +2,7 @@
 title: Contact us
 sections:
   - type: HeroSection
-    title: Contact us
+    title: Contact
     text: >
       Let’s build something great together.
 
