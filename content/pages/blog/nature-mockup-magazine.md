@@ -2,7 +2,7 @@
 title: Nature Mockup Magazine
 layout: PostLayout
 date: 
-author: content/data/team/dianne-ameter.json
+author: 
 excerpt: Editorial Design
 featuredImage:
   type: ImageBlock
