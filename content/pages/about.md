@@ -42,7 +42,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    variant: variant-b
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: The Team
