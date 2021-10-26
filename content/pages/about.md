@@ -78,7 +78,7 @@ sections:
     type: FeaturedPeopleSection
   - elementId: ''
     colors: colors-h
-    backgroundWidth: full
+    backgroundWidth: inset
     backgroundImage:
       elementId: ''
       styles:
