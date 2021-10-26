@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/post-13.jpeg
-  altText: Post thumbnail image
+  altText: Why fonts matter image
 bottomSections: []
 layout: PostLayout
 ---
