@@ -16,11 +16,7 @@ bottomSections:
     backgroundWidth: full
     title: Latest news
     subtitle: Featured blog posts section example
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
