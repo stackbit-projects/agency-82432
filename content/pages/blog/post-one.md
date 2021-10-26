@@ -13,7 +13,7 @@ bottomSections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: More projects
     subtitle: Featured blog posts section example
     actions:
       - type: Button
