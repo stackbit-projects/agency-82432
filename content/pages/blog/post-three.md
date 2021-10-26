@@ -15,7 +15,6 @@ bottomSections:
     colors: colors-a
     backgroundWidth: full
     title: More projects
-    subtitle: Featured blog posts section example
     actions:
       - type: Button
         label: View all
