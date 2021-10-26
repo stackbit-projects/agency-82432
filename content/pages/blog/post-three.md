@@ -6,7 +6,7 @@ author: content/data/team/hilary-ouse.json
 excerpt: Brand development
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpeg
+  url: /images/work-photography-magazine-1.jpeg
   altText: Post Image
 bottomSections:
   - type: CtaSection
