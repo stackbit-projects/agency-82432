@@ -84,6 +84,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    subtitle: Explore case studies
   - type: TestimonialsSection
     colors: colors-h
     backgroundWidth: full
