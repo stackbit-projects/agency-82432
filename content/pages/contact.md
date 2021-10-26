@@ -22,7 +22,7 @@ sections:
           label: Email
           placeholder: Your email
           width: full
-        - name: Services
+        - name: message
           label: What services are you looking for?
           placeholder: Please s
           isRequired: false
