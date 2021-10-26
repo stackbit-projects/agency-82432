@@ -12,7 +12,7 @@ sections:
       type: FormBlock
       action: /.netlify/functions/submission_created
       elementId: contact-form
-      submitLabel: Contact
+      submitLabel: Send Message
       fields:
         - type: TextFormControl
           label: Name
