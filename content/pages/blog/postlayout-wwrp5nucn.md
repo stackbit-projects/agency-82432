@@ -12,11 +12,7 @@ bottomSections:
     colors: colors-a
     backgroundWidth: full
     title: More projects
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
