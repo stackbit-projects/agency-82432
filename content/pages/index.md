@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-f
+    colors: colors-a
     backgroundWidth: inset
     title: >-
       This is an Award Winning Agency Based in San Francisco and Focusing on
