@@ -4,7 +4,7 @@ date: '2021-10-26'
 excerpt: Brand Development
 featuredImage:
   type: ImageBlock
-  url: /images/work-branding-2.jpeg
+  url: /images/work-branding-1-thumb.jpeg
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
