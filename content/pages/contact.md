@@ -24,7 +24,7 @@ sections:
           width: full
         - name: Services
           label: What services are you looking for?
-          placeholder: Please describe
+          placeholder: Please s
           isRequired: false
           width: full
           type: TextareaFormControl
