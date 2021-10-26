@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Portfolio
-    subtitle: Featured blog posts section example
+    subtitle: This is an optional
     actions:
       - type: Button
         label: View all
