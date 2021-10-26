@@ -12,6 +12,7 @@ sections:
       - content/pages/blog/working-from-home.md
       - content/pages/blog/street-photography.md
       - content/pages/blog/why-fonts-matter.md
+      - content/pages/blog/interior-designer.md
     styles:
       self:
         height: auto
