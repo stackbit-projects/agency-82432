@@ -112,7 +112,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/contact.png
+      url: /images/cta-about.svg
       altText: Contact form image
     styles:
       self:
