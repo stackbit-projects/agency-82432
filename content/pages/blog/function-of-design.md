@@ -1,6 +1,6 @@
 ---
 title: The function of design is letting design function
-date: '2021-10-26'
+date: '2021-09-26'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
   posts.
