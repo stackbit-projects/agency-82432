@@ -1,9 +1,7 @@
 ---
 title: The Book
 date: '2021-10-26'
-excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+excerpt: Editorial Design
 featuredImage:
   type: ImageBlock
   url: /images/work-magazine-1-thumb-5904c972.jpeg
