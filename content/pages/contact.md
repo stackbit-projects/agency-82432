@@ -15,10 +15,10 @@ sections:
 
       ### San Francisco
       
-      - 1234 Some St.
-      - San Francisco, CA 12345
-      - 1-234-556-7890
-      - [Get directions →](https://www.google.com/maps)
+      1234 Some St.
+      San Francisco, CA 12345
+      1-234-556-7890
+      [Get directions →](https://www.google.com/maps)
 
 
 
