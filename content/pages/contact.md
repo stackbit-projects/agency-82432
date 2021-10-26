@@ -22,6 +22,12 @@ sections:
           label: Email
           placeholder: Your email
           width: full
+        - name: lorem-ipsum
+          label: Description
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
         - type: CheckboxFormControl
           label: Sign me up to receive updates
           width: full
