@@ -39,7 +39,9 @@ sections:
           width: full
           type: TextareaFormControl
         - type: CheckboxFormControl
-          label: Sign me up to receive updates
+          label: >-
+            I understand that this form is storing my submitted information so I
+            can be contacted.
           width: full
           name: checkbox
     styles:
