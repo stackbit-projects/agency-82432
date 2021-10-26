@@ -35,7 +35,7 @@ sections:
 
       1-234-556-7890
 
-      Get directions →
+  [Get directions →](https://www.google.com/maps)
     feature:
       type: FormBlock
       action: /.netlify/functions/submission_created
