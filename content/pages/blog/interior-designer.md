@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: How To Choose An Interior Designer
 date: '2021-10-26'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
