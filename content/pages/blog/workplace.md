@@ -15,7 +15,6 @@ bottomSections:
     colors: colors-a
     backgroundWidth: full
     title: Latest news
-    subtitle: Featured blog posts section example
     actions: []
     posts:
       - content/pages/blog/post-three.md
