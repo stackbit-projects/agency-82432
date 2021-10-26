@@ -20,6 +20,7 @@ bottomSections:
     posts:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/street-photography.md
     styles:
       self:
         height: auto
