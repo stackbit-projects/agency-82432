@@ -77,7 +77,7 @@ sections:
         justifyContent: center
     type: FeaturedPeopleSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-h
     backgroundWidth: full
     backgroundImage:
       elementId: ''
