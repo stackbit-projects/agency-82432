@@ -1,8 +1,8 @@
 ---
 title: Nature Mockup Magazine
 layout: PostLayout
-date: 
-author: 
+date: '2021-10-05'
+author: null
 excerpt: Editorial Design
 featuredImage:
   type: ImageBlock
@@ -19,7 +19,7 @@ bottomSections:
     actions:
       - type: Button
         label: Get Started
-        url: '/'
+        url: /
         style: primary
     styles:
       self:
