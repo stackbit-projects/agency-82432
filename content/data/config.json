@@ -33,7 +33,7 @@
                 "type": "Link"
             },
             {
-                "url": "/blog",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
