@@ -18,7 +18,6 @@ bottomSections:
     title: Read next
     actions: []
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/street-photography.md
       - content/pages/blog/interior-designer.md
