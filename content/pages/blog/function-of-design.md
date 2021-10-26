@@ -1,5 +1,5 @@
 ---
-title: The function of design is letting design function
+title: The Function Of Design Is Letting Design Function
 date: '2020-01-15'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
