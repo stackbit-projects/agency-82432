@@ -8,6 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/post-11.jpeg
   altText: Post thumbnail image
+  caption: This is the caption of the image
 bottomSections: []
 layout: PostLayout
 ---
