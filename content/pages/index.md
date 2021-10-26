@@ -55,7 +55,7 @@ sections:
         justifyContent: flex-start
   - type: FeaturedPostsSection
     variant: variant-b
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     title: Blog Posts
     posts:
