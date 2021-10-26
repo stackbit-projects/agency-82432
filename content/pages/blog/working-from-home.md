@@ -19,7 +19,6 @@ bottomSections:
     actions: []
     posts:
       - content/pages/blog/workplace.md
-      - content/pages/blog/street-photography.md
     styles:
       self:
         height: auto
