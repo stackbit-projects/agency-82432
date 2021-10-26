@@ -21,6 +21,7 @@ bottomSections:
         style: primary
     posts:
       - content/pages/blog/post-one.md
+      - content/pages/blog/postlayout-8m07hu084.md
     styles:
       self:
         height: auto
