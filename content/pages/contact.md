@@ -27,7 +27,7 @@ sections:
           defaultValue: Please select...
           options:
             - Branding
-            - San Francisco
+            - Design
           isRequired: false
           width: full
           type: SelectFormControl
