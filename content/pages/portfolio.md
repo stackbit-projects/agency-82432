@@ -12,6 +12,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/postlayout-f79pzoaup.md
     styles:
       self:
         height: auto
