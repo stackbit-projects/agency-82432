@@ -21,14 +21,13 @@ sections:
       [Get directions →](https://www.google.com/maps)
 
 
-
       ### New York
       
       1234 Some St.
       New York, NY 12345
       1-234-556-7890
       [Get directions →](https://www.google.com/maps)
-      
+
     feature:
       type: FormBlock
       action: /.netlify/functions/submission_created
