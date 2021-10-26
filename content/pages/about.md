@@ -26,7 +26,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-        alignItems: flex-end
+        alignItems: flex-start
         justifyContent: flex-end
         flexDirection: col
       title:
