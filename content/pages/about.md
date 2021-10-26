@@ -46,7 +46,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: The Team
-    subtitle: Meet the team
+    subtitle: An optional subtitle of the section
     actions: []
     people:
       - content/data/team/desmond-eagle.json
