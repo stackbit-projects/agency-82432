@@ -22,17 +22,6 @@
                 "style": "link"
             },
             {
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "link",
-                "elementId": "",
-                "type": "Link",
-                "label": "Work",
-                "altText": "Work"
-            },
-            {
                 "label": "Work",
                 "altText": "Work",
                 "url": "/portfolio",
@@ -42,6 +31,17 @@
                 "style": "link",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowLeft",
+                "iconPosition": "right",
+                "style": "link",
+                "elementId": "",
+                "type": "Link",
+                "label": "Work",
+                "altText": "Work"
             },
             {
                 "label": "About",
