@@ -8,7 +8,6 @@ sections:
     backgroundWidth: full
     title: Blog
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/workplace.md
       - content/pages/blog/workplace.md
