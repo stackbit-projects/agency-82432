@@ -2,7 +2,7 @@
 title: Portfolio
 sections:
   - elementId: ''
-    variant: variant-a
+    variant: variant-b
     colors: colors-a
     backgroundWidth: full
     title: Portfolio
