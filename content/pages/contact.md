@@ -22,7 +22,7 @@ sections:
           label: Email
           placeholder: Your email
           width: full
-        - name: lorem-ipsum
+        - name: Services
           label: City
           defaultValue: Please choose...
           options:
