@@ -14,11 +14,7 @@ bottomSections:
     colors: colors-a
     backgroundWidth: full
     title: More projects
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     posts:
       - content/pages/blog/post-one.md
       - content/pages/blog/postlayout-8m07hu084.md
