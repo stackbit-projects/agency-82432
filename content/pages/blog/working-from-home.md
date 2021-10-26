@@ -17,8 +17,7 @@ bottomSections:
     backgroundWidth: full
     title: Read next
     actions: []
-    posts:
-      - content/pages/blog/workplace.md
+    posts: []
     styles:
       self:
         height: auto
