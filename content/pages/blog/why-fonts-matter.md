@@ -1,6 +1,6 @@
 ---
 title: Why Fonts Matter
-date: '2020-12-26'
+date: '2020-12-20'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
   posts.
