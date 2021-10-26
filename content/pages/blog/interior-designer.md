@@ -1,6 +1,6 @@
 ---
 title: How To Choose An Interior Designer
-date: '2020-10-26'
+date: '2020-09-26'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
   posts.
