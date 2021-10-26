@@ -14,7 +14,7 @@ bottomSections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: Read next
     actions: []
     posts:
       - content/pages/blog/post-three.md
