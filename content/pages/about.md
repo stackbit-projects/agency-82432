@@ -88,7 +88,7 @@ sections:
           opacity: 100
       type: ImageBlock
     title: This Is A Big Hero Headline
-    subtitle: This Is Subtitle
+    subtitle: Become a Team Player
     text: >
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
