@@ -28,7 +28,8 @@
                 "iconPosition": "right",
                 "style": "link",
                 "elementId": "",
-                "type": "Link"
+                "type": "Link",
+                "label": "Work"
             },
             {
                 "label": "About",
