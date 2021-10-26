@@ -2,8 +2,9 @@
 title: Why Fonts Matter
 date: '2020-12-20'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
+  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
+  placerat lorem.
 featuredImage:
   type: ImageBlock
   url: /images/post-13.jpeg
