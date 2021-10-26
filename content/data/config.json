@@ -23,7 +23,6 @@
             },
             {
                 "label": "Journal",
-                "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
