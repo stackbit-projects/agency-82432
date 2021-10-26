@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Portfolio
-    subtitle: This is an optional
+    subtitle: This is an optional subtitle for the portfolio page
     actions:
       - type: Button
         label: View all
