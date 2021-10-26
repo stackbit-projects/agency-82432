@@ -17,6 +17,7 @@ bottomSections:
     actions: []
     posts:
       - content/pages/blog/working-from-home.md
+      - content/pages/blog/why-fonts-matter.md
     styles:
       self:
         height: auto
