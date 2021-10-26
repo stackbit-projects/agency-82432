@@ -6,7 +6,7 @@
         "secondaryColors": "colors-a",
         "backgroundWidth": "full",
         "title": "Agency",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/agency-logo.svg",
