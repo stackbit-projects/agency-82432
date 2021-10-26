@@ -89,11 +89,11 @@ sections:
       type: ImageBlock
     title: This Is A Big Hero Headline
     subtitle: This Is Subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We are always looking for great people to join our team. If you are
+      interested in working for Agency, please send an email to
+      [email@example.com ](mailto:email@email.com)with your CV and which
+      position you are interested in.
     actions: []
     feature:
       type: ImageBlock
