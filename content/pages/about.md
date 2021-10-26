@@ -87,7 +87,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/cta-about.svg
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
