@@ -16,8 +16,7 @@ bottomSections:
     backgroundWidth: full
     title: Read next
     actions: []
-    posts:
-      - content/pages/blog/post-one.md
+    posts: []
     styles:
       self:
         height: auto
