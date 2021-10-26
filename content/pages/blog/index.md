@@ -3,7 +3,7 @@ title: Blog
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
-    variant: variant-b
+    variant: variant-a
     colors: colors-a
     backgroundWidth: full
     title: Blog
