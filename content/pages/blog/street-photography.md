@@ -15,7 +15,8 @@ bottomSections:
     backgroundWidth: full
     title: Read next
     actions: []
-    posts: []
+    posts:
+      - content/pages/blog/working-from-home.md
     styles:
       self:
         height: auto
