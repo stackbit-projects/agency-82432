@@ -13,6 +13,7 @@ sections:
       - content/pages/blog/street-photography.md
       - content/pages/blog/why-fonts-matter.md
       - content/pages/blog/interior-designer.md
+      - content/pages/blog/function-of-design.md
     styles:
       self:
         height: auto
