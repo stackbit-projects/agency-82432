@@ -29,7 +29,8 @@
                 "style": "link",
                 "elementId": "",
                 "type": "Link",
-                "label": "Work"
+                "label": "Work",
+                "altText": "Work"
             },
             {
                 "label": "About",
