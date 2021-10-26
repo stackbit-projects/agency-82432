@@ -7,6 +7,14 @@ excerpt: >-
   someone who coordinates and manages such projects.
 bottomSections: []
 layout: PostLayout
+featuredImage:
+  altText: lorem-ipsum
+  caption: lorem-ipsum
+  elementId: ''
+  styles:
+    self:
+      opacity: 100
+  type: ImageBlock
 ---
 > Interior design is “the art or process of designing the interior, often including the exterior, of a room or building”.
 
