@@ -18,7 +18,7 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": "Sign in",
+                "altText": "Home",
                 "style": "link"
             }
         ],
