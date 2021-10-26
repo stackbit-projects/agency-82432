@@ -97,7 +97,8 @@
                 "altText": "Instagram",
                 "url": "/",
                 "showIcon": true,
-                "icon": "instagram"
+                "icon": "instagram",
+                "label": "Instagram"
             },
             {
                 "type": "Social",
