@@ -22,7 +22,7 @@ sections:
           label: Email
           placeholder: Your email
           width: full
-        - name: lorem-ipsum
+        - name: Services
           label: Description
           placeholder: Please describe
           isRequired: false
