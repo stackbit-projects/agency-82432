@@ -77,7 +77,7 @@ sections:
         justifyContent: center
     type: FeaturedPeopleSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-d
     backgroundWidth: full
     backgroundImage:
       altText: lorem-ipsum
