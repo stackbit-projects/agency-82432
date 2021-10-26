@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: Understanding Street Photography
 date: '2021-10-26'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
