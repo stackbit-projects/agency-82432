@@ -28,7 +28,7 @@ sections:
           options:
             - Branding
             - Design
-            - lorem-ipsum
+            - Digital
           isRequired: false
           width: full
           type: SelectFormControl
