@@ -11,7 +11,7 @@ featuredImage:
   caption: This is the caption of the image
 bottomSections:
   - elementId: ''
-    variant: variant-a
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: More projects
