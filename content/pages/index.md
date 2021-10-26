@@ -24,10 +24,6 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
-    feature:
-      type: ImageBlock
-      altText: Image alt text
-      caption: Image caption
     styles:
       self:
         height: auto
