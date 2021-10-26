@@ -3,10 +3,11 @@ title: Contact us
 sections:
   - type: HeroSection
     title: Contact us
-    text: >-
-      Fill out the form below and we will get in touch within 1 business day.
-      Various versions have evolved over the years, sometimes by accident,
-      sometimes on purpose (injected humour and the like).
+    text: >
+      Let’s build something great together.
+
+      Complete our contact form or send us an email at
+      [email@example.com](mailto:email@email.com) .
     feature:
       type: FormBlock
       action: /.netlify/functions/submission_created
