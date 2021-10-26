@@ -12,14 +12,7 @@
             "url": "/images/agency-logo.svg",
             "altText": "Agency"
         },
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Example",
-                "url": "/example",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Link",
