@@ -11,7 +11,7 @@ bottomSections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: More projects
     actions:
       - type: Button
         label: View all
