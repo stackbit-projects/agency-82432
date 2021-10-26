@@ -24,7 +24,7 @@
             {
                 "label": "Work",
                 "altText": "Work",
-                "url": "/portfolio",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
