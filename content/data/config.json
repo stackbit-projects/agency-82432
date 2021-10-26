@@ -56,7 +56,7 @@
             },
             {
                 "label": "Contact",
-                "altText": "Learn more",
+                "altText": "Contact",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
