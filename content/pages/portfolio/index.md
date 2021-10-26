@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Portfolio
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
