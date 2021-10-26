@@ -3,7 +3,6 @@ title: About us
 sections:
   - type: HeroSection
     title: Our story
-    subtitle: Who We Are
     text: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
       venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
