@@ -82,7 +82,19 @@
         "title": "Agency",
         "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.  \nEaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
         "copyrightText": "Powered by Stackbit",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "label": "Learn more",
+                "altText": "Learn more",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowLeft",
+                "iconPosition": "right",
+                "style": "link",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
