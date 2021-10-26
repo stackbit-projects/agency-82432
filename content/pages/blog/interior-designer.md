@@ -17,6 +17,7 @@ bottomSections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/why-fonts-matter.md
+      - content/pages/blog/function-of-design.md
     styles:
       self:
         height: auto
