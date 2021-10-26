@@ -80,7 +80,6 @@ sections:
     colors: colors-f
     backgroundWidth: full
     backgroundImage:
-      caption: lorem-ipsum
       elementId: ''
       styles:
         self:
