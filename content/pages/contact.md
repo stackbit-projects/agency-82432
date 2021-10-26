@@ -22,6 +22,15 @@ sections:
           label: Email
           placeholder: Your email
           width: full
+        - name: lorem-ipsum
+          label: City
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
         - name: message
           label: Message
           placeholder: Your Message
