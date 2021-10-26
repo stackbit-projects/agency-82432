@@ -6,7 +6,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Blog
+    title: Journal
     posts:
       - content/pages/blog/workplace.md
       - content/pages/blog/working-from-home.md
