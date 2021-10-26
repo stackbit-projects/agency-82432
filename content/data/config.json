@@ -34,7 +34,7 @@
             },
             {
                 "label": "Work",
-                "altText": "Portfolio",
+                "altText": "Work",
                 "url": "/portfolio",
                 "showIcon": false,
                 "icon": "arrowLeft",
