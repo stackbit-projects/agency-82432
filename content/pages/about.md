@@ -4,11 +4,15 @@ sections:
   - type: HeroSection
     title: Our story
     subtitle: Who We Are
-    text: >-
-      Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-      roots in a piece of classical Latin literature from 45 BC, making it over
-      2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-      College in Virginia, looked up one of the more obscure Latin words.
+    text: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
+      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
+      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
+      sagittis enim est, et semper lectus hendrerit ut.
+
+
+      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
+      turpis et nisi fermentum accumsan.
     feature:
       type: ImageBlock
       url: /images/about.jpg
