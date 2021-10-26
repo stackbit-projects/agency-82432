@@ -113,7 +113,7 @@ sections:
     feature:
       type: ImageBlock
       url: /images/cta-about.svg
-      altText: Contact form image
+      altText: Become a team player
     styles:
       self:
         height: auto
