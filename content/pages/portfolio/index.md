@@ -8,9 +8,9 @@ sections:
     backgroundWidth: full
     title: Portfolio
     posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
+      - content/pages/portfolio/post-three.md
+      - content/pages/portfolio/post-two.md
+      - content/pages/portfolio/post-one.md
     styles:
       self:
         height: auto
