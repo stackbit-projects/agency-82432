@@ -2,8 +2,8 @@
 title: Understanding Street Photography
 date: '2021-10-26'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
 featuredImage:
   type: ImageBlock
   url: /images/post-12.jpeg
