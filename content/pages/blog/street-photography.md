@@ -14,11 +14,7 @@ bottomSections:
     colors: colors-a
     backgroundWidth: full
     title: Read next
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     posts: []
     styles:
       self:
