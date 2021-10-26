@@ -17,7 +17,7 @@ sections:
         - type: TextFormControl
           label: Name
           placeholder: Your name
-          width: 1/2
+          width: full
         - type: TextFormControl
           label: Last name
           placeholder: Your last name
