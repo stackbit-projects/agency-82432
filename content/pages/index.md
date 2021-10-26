@@ -72,7 +72,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-        alignItems: flex-start
+        alignItems: flex-end
         justifyContent: center
       title:
         fontWeight: 700
