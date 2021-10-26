@@ -88,7 +88,6 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Become A Team Player
-    subtitle: Become a Team Player
     text: >
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
