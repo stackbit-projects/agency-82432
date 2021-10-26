@@ -23,7 +23,7 @@ sections:
           placeholder: Your email
           width: full
         - name: Services
-          label: City
+          label: What services are you looking for?
           defaultValue: Please choose...
           options:
             - New York
