@@ -33,4 +33,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    subtitle: 'News, tips and highlights'
 ---
