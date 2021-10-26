@@ -6,7 +6,7 @@ sections:
     variant: variant-a
     colors: colors-e
     backgroundWidth: full
-    title: Blog
+    title: Portfolio
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
