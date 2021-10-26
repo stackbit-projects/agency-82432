@@ -8,6 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/post-13.jpeg
   altText: Why fonts matter image
+  caption: This is the caption of the image
 bottomSections: []
 layout: PostLayout
 ---
