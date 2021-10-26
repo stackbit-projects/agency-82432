@@ -22,17 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Work",
-                "altText": "Work",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "link",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "Journal",
                 "altText": "Journal",
                 "url": "/",
