@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/post-14.jpeg
-  altText: Post thumbnail image
+  altText: Function of design image
 bottomSections: []
 layout: PostLayout
 ---
