@@ -19,8 +19,7 @@ bottomSections:
         label: View all
         url: /
         style: primary
-    posts:
-      - content/pages/blog/post-one.md
+    posts: []
     styles:
       self:
         height: auto
