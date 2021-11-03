@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Journal
     posts:
       - content/pages/blog/workplace.md
