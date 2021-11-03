@@ -16,8 +16,8 @@ sections:
       - content/pages/blog/function-of-design.md
     styles:
       self:
-        height: auto
-        width: narrow
+        height: screen
+        width: full
         margin:
           - mt-0
           - mb-0
