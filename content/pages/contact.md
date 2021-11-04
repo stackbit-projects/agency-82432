@@ -74,7 +74,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: The Section Title
+    title: Our offices
     subtitle: The section subtitle
     text: |
       Our offices\<!---->
