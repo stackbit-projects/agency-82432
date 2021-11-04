@@ -8,42 +8,6 @@ sections:
 
       Complete our contact form or send us an email at
       [email@example.com](mailto:email@email.com) .
-
-
-      ## Our offices
-
-
-      ### San Francisco
-
-
-      *   1234 Some St. 
-
-
-      *   San Francisco, CA 12345 
-
-
-      *   1-234-556-7890 
-
-
-      *   [Get directions →](https://www.google.com/maps)
-
-
-      ### New York
-
-
-      <!---->
-
-
-      *   1234 Some St. 
-
-
-      *   New York, NY 12345 
-
-
-      *   1-234-556-7890 
-
-
-      *   [Get directions →](https://www.google.com/maps)
     feature:
       type: FormBlock
       action: /.netlify/functions/submission_created
