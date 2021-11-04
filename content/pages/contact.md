@@ -75,7 +75,6 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Our offices
-    subtitle: The section subtitle
     text: |
       Our offices\<!---->
 
