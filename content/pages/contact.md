@@ -88,13 +88,13 @@ sections:
 
       ### New York
 
-      *   1234 Some St.
+      1234 Some St.
 
-      *   New York, NY 12345
+      New York, NY 12345
 
-      *   1-234-556-7890
+      1-234-556-7890
 
-      *   [Get directions →](https://www.google.com/maps)
+      [Get directions →](https://www.google.com/maps)
     styles:
       self:
         height: auto
