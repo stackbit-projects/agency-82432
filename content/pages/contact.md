@@ -78,13 +78,13 @@ sections:
     text: |
       ### San Francisco
 
-      *   1234 Some St.
+      1234 Some St.
 
-      *   San Francisco, CA 12345
+      San Francisco, CA 12345
 
-      *   1-234-556-7890
+      1-234-556-7890
 
-      *   [Get directions →](https://www.google.com/maps)
+      [Get directions →](https://www.google.com/maps)
 
       ### New York
 
