@@ -2,7 +2,6 @@
 title: Nature Mockup Magazine
 layout: PostLayout
 date: '2021-10-05'
-author: null
 excerpt: Editorial Design
 featuredImage:
   type: ImageBlock
