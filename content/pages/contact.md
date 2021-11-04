@@ -76,8 +76,6 @@ sections:
     backgroundWidth: full
     title: Our offices
     text: |
-      Our offices\<!---->
-
       ### San Francisco
 
       *   1234 Some St.
