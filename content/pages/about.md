@@ -52,7 +52,7 @@ sections:
     actions: []
     people:
       - content/data/team/gustav-purpleson.json
-      - content/data/team/dianne-ameter.json
+      - content/data/team/gordon-norman.json
       - content/data/team/hilary-ouse.json
       - content/data/team/parsley-montana.json
     styles:
