@@ -76,13 +76,28 @@ sections:
     backgroundWidth: full
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+      Our offices\<!---->
+
+      ### San Francisco
+
+      *   1234 Some St.
+
+      *   San Francisco, CA 12345
+
+      *   1-234-556-7890
+
+      *   [Get directions →](https://www.google.com/maps)
+
+      ### New York
+
+      *   1234 Some St.
+
+      *   New York, NY 12345
+
+      *   1-234-556-7890
+
+      *   [Get directions →](https://www.google.com/maps)
     styles:
       self:
         height: auto
